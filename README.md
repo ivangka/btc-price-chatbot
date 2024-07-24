@@ -4,7 +4,7 @@
 
 This is a simple Telegram bot built with Python that provides the current Bitcoin price upon user request. The bot fetches the latest Bitcoin price from a public API and sends it to the user in the chat.
 
-## Installation
+## Installation for Developers
 
 1. **Clone the repository:**
 
