@@ -31,6 +31,8 @@ This is a simple Telegram bot built with Python that provides the current Bitcoi
 	- Create a new bot on Telegram by talking to @BotFather and get the API token.
 	- Create a file named config.py in the project directory and add your Telegram bot token:
 
+	
+
 	```python
 	token_tg = 'your_telegram_bot_token'
 	```
