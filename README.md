@@ -4,29 +4,30 @@ This is a simple Telegram bot built with Python that provides the current Bitcoi
 
 ## Installation
 
-1. Clone the repository:
+### 1. Clone the repository:
 
 	```sh
 	git clone https://github.com/ivangka/btc-price-chatbot.git
 	cd btc-price-chatbot
 	```
 
-2. Create a virtual environment adn activate it:
+### 2. Create a virtual environment adn activate it:
 
 	```sh
 	python -m venv venv
 	source venv/bin/activate   # On Windows, use `venv\Scripts\activate`
 	```
 
-3. Install the required dependencies:
+### 3. Install the required dependencies:
 
 	```sh
 	pip install -r requirements.txt
 	```
 
-4. Set up your Telegram bot:
+### 4. Set up your Telegram bot:
 	- Create a new bot on Telegram by talking to @BotFather and get the API token.
 	- Create a file named config.py in the project directory and add your Telegram bot token:
+
 
 	```python
 	token_tg = 'your_telegram_bot_token'
