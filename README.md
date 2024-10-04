@@ -37,4 +37,4 @@ This is a simple Telegram bot built with Python that provides the current Bitcoi
 This project retrieves the current Bitcoin price from the [CoinDesk API](https://api.coindesk.com/v1/bpi/currentprice.json).
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.=
