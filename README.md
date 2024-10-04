@@ -1,7 +1,5 @@
 # BTC Price Chatbot
 
-![GitHub repo size](https://img.shields.io/github/repo-size/ivangka/btc-price-chatbot?style=plastic)
-
 This is a simple Telegram bot built with Python that provides the current Bitcoin price upon user request. The bot fetches the latest Bitcoin price from a public API and sends it to the user in the chat.
 
 ## Installation for Developers
@@ -34,3 +32,9 @@ This is a simple Telegram bot built with Python that provides the current Bitcoi
 	```python
 	token_tg = 'your_telegram_bot_token'
 	```
+
+## Data Source
+This project retrieves the current Bitcoin price from the [CoinDesk API](https://api.coindesk.com/v1/bpi/currentprice.json).
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
