@@ -11,7 +11,7 @@ This is a simple Telegram bot built with Python that provides the current Bitcoi
 	cd btc-price-chatbot
 	```
 
-2. **Create a virtual environment adn activate it:**
+2. **Create a virtual environment and activate it:**
 
 	```bash
 	python -m venv venv
